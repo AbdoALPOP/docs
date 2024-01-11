@@ -1,5 +1,5 @@
 {
-  "openapi": "openapi.json",
+  "openapi": "/openapi.json",
   "name": "Starter Kit",
   "logo": {
     "dark": "/logo/dark.svg",
