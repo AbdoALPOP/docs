@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "openapi": ["api-reference/openapi.json"],
+  "openapi": [https://api.thought.ly/schema.json],
   "name": "Starter Kit",
   "logo": {
     "dark": "/logo/dark.svg",
@@ -33,27 +33,27 @@
     }
   ],
   "anchors": [
-    {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
+    // {
+    //   "name": "Documentation",
+    //   "icon": "book-open-cover",
+    //   "url": "https://mintlify.com/docs"
+    // },
     {
       "name": "API Reference",
       "openapi": "https://api.thought.ly/schema.json",
       "url": "api-reference",
       "icon": "square-terminal"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
     }
+    // {
+    //   "name": "Community",
+    //   "icon": "slack",
+    //   "url": "https://mintlify.com/community"
+    // },
+    // {
+    //   "name": "Blog",
+    //   "icon": "newspaper",
+    //   "url": "https://mintlify.com/blog"
+    // }
   ],
   "navigation": [
     {
