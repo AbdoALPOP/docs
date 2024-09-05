@@ -1,6 +1,5 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "openapi": [https://api.thought.ly/schema.json],
   "name": "Starter Kit",
   "logo": {
     "dark": "/logo/dark.svg",
