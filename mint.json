@@ -40,7 +40,7 @@
     },
     {
       "name": "API Reference",
-      "openapi": "/api-reference/openapi.json",
+      "openapi": "https://api.thought.ly/schema.json",
       "url": "api-reference",
       "icon": "square-terminal"
     },
